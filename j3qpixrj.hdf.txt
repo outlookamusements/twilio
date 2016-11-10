@@ -1,0 +1,12 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   client-android/1.2.18/2c81be4fa2f0ca7c1a0782c8e1717fcb96bca4e1/client-android-1.2.18.aar
+#	new file:   client-android/1.2.18/756668005bc0f63c3470c607d4c44b570713a4d9/client-android-1.2.18.pom
+#
+
